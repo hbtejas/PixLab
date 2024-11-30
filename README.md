@@ -1,4 +1,4 @@
-# PixelPerfect - A Mini Photo Shop Web App  
+# PixLab - A Mini Photo Shop Web App  
 
 ## Overview  
 PixelPerfect is a basic photo editor web application built using HTML and CSS. It showcases a simple, user-friendly interface for uploading and styling photos with simulated editing functionalities.
